@@ -1,0 +1,9 @@
+# Ignore all files without extensions
+*
+
+# Allow files with extensions
+!*.*
+
+# Explicitly allow .gitignore and .git directory
+!.gitignore
+!.git/
